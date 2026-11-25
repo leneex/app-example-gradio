@@ -1,0 +1,2 @@
+# Web UI library: stable 6.x branch, below 7.0 with its breaking changes
+gradio~=6.32
